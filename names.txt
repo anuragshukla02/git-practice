@@ -1,6 +1,4 @@
 hello
 i am anurag
-bye
-world
-world 2
-issues
+my world is you 
+thats the issue
